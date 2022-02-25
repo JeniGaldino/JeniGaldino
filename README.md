@@ -9,10 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/JeniGaldino">
-  <img height="100m" src="https://github-readme-stats.vercel.app/api?username=jenigaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="100m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenigaldino&layout=compact&langs_count=7&theme=radical"/>
+  <img height="120m" src="https://github-readme-stats.vercel.app/api?username=jenigaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenigaldino&layout=compact&langs_count=7&theme=radical"/>
     </div>
-  <img align="center" alt="Jeni-G" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img align="center" alt="Jeni-G" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   </div>
 
 ##
