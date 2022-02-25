@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/jenifer-galdino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6ac128281d4d5a9c0e2732af5dd06baa.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6ac128281d4d5a9c0e2732af5dd06baa.gif" width="100" height="100" border="0" alt="https://picasion.com/" >
   
  </div>
  
