@@ -1,4 +1,4 @@
-### Olá, eu sou a Jenifer 👾
+### Hello and welcome! I'm Jenifer 👾
 
 
 - 🎓 I'm studying Computer Systems Analyst
