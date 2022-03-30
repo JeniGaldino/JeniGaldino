@@ -7,13 +7,7 @@
 - 😄 Pronomes: She/Her
 - ⚡ Fun fact: I have a degree in International Relations🌎 
 
-<div align="center">
-  <a href="https://github.com/JeniGaldino">
-  <img height="140m" src="https://github-readme-stats.vercel.app/api?username=jenigaldino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenigaldino&layout=compact&langs_count=7&theme=radical"/>
-    </div>
-  <img align="center" alt="Jeni-G" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-  </div>
+
 
 ##
   
