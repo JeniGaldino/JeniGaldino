@@ -10,10 +10,16 @@
 
 
 ##
+  <a href = "https://github.com/JeniGaldino">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JeniGaldino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>     <br>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeniGaldino&layout=compact&langs_count=7&theme=dracula"/>
   
+  <div>
+    
   <a href="https://instagram.com/_jenigaldino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jenigaldino21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jenifer-galdino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jenifer-galdino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
   </div align="center">
   
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6ac128281d4d5a9c0e2732af5dd06baa.gif" width="100" height="100" border="0" alt="https://picasion.com/" >
