@@ -1,7 +1,7 @@
 ### Hello and welcome! I'm Jenifer 👾
 
 
-- 🎓 I'm studying Computer Systems 
+- 🎓 I'm studying Computer Systems Analysis
 - 🌱 I'm learning Kotlin
 - 📫 My email is: jenigaldino21@gmail.com 
 - 😄 Pronomes: She/Her
