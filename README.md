@@ -2,7 +2,7 @@
 
 
 - 🎓 I'm studying Computer Systems Analysis
-- 🌱 I'm learning Kotlin, HTML5, CSS, Java and Javascript
+- 🌱 I'm learning Kotlin, HTML5, CSS and Javascript
 - 📫 My email is: jenigaldino21@gmail.com 
 - 😄 Pronomes: She/Her
 - ⚡ Fun fact: I have a degree in International Relations🌎 
