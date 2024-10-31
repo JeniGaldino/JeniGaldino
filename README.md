@@ -1,11 +1,11 @@
 ### Hello and welcome! I'm Jenifer 👾
 
 
-- 🎓 I'm studying Computer Systems Analysis
-- 🌱 I'm learning Kotlin, HTML5, CSS and Javascript
+- 🎓 Graduated in Computer Systems Analysis and International Relations
+- 🌱 I'm learning Data Analytics
 - 📫 My email is: jenigaldino21@gmail.com 
-- 😄 Pronomes: She/Her
-- ⚡ Fun fact: I have a degree in International Relations🌎 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm addicted to learning
 
 
 <div align="center">
