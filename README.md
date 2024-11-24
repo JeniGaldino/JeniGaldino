@@ -15,7 +15,6 @@
 </div>
  <div style="display: inline_block"><br>
    
-<img align="center" alt="Jeni-Android" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" />
 <img align="center" alt="Jeni-SQL" height="50" width="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" />
 <img align="center" alt="Jeni-Html" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Jeni-css" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
