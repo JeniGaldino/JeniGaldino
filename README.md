@@ -30,15 +30,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeniGaldino&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeniGaldino&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JeniGaldino&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeniGaldino&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeniGaldino&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JeniGaldino&theme=tokyonight"/>
 </p>
 
-> ⚠️ *If stats appear broken, GitHub Stats API may be temporarily unstable.*
 
 ---
 
